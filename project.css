@@ -1,0 +1,651 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+
+.body{ 
+    display: block;  
+    width: 100%;
+    height: 100%;
+    background-color:white;
+    padding-top: 1rem; 
+}
+.content1{
+    display: block;
+    width: 100%;
+    height:100%;
+    background-color: white;
+}
+.content1 h1{
+    margin-left: 10rem;
+    font-size:1rem;
+    padding-top: 0.5rem;
+    font-family: Nunito sans;
+    
+}
+.content1 h2{
+    font-size: 2.5rem;
+    margin-left: 2rem;
+    color:#2F327D;
+    font-family: poppins;
+}
+.content1i h1{
+    margin-left: 2rem;
+    font-size: 1.5rem;
+    color: #696984;
+    font-weight: 400;
+    font-family: poppins;
+}
+.content1i h2{
+    font-size: 1.5rem;
+    color:#696984;
+    font-weight: 400;
+    font-family: poppins;
+
+}
+.content1i h3{
+    margin-left: 2rem;
+    font-size: 1.5rem;
+    color:#696984;
+    font-weight: 400;
+    font-family: poppins;
+}
+
+.button{
+    width: 15rem;
+    height: 3rem;
+    border-radius: 20px;
+    border:2px solid#49BBBD;
+    background-color: white;
+    margin-left: 4rem;
+    font-size:1rem;
+    font-weight: 400;
+    cursor: pointer;
+    
+
+}
+.button:hover{
+    background-color: #49BBBD;
+    transition: ease-in-out 0.5s;
+    transform: translateY(-10%);
+}   
+
+.img1{
+    height:34rem;
+    width: 24rem;
+    margin-top: -27rem;
+    margin-left: 50rem;
+    border-radius: 10px 10px 10px 10px;
+    
+    
+}
+.content1h4{
+    width: 23rem;
+    height: 12rem;
+    background-color: chocolate;
+    margin-top:-4rem;
+    margin-left: 28rem;
+    position: absolute;
+    left: 27rem;
+    top: 30rem;
+    border-radius: 10px 0px 0px 10px;
+}
+.content1h4i{
+    width: 22rem;
+    height: 12rem;
+    background-color: white;
+    position: absolute;
+    left: 56rem;
+    top: 26rem;
+}
+.content1h4i h1{
+    font-family: poppins;
+    font-weight: 400;
+    margin-left: 1rem;
+    color:#5F5F7E;
+    line-height: 1.5rem;
+}
+.content1h4i h2{
+    font-size: medium;
+    line-height: 5rem;
+}
+.img2{
+    position: absolute;
+    bottom: 2.5rem;
+    left: 12rem;
+    height: 1.5rem;
+}
+.content1h4i h3{
+   margin-left: 12rem; 
+   line-height: 1rem;
+   position: absolute;
+   bottom: 0rem;
+   color: #80819A;
+}
+.content2 h1{
+    color: #2F327D;
+    margin-left: 35rem;
+    margin-top:15rem;
+    font-size: 36px;
+}
+.content2 h2{
+    font-size: 1rem;
+    margin-left: 35rem;
+    color: #696984;
+    font-family: poppins;
+
+}
+.solid{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+}
+.content3{
+    display: block;
+     width: 40%;
+     
+}
+.content3 img{
+    width: 100%;
+    border-radius: 10px 10px 10px 10px;
+    height: 14rem;
+    object-fit:cover;
+}
+
+.content3 button{
+    width: 8rem;
+    height: 2rem;
+    background-color: #49BBBD;
+    border: none;
+    border-radius: 20px;
+    color: #FFFFFF;
+    margin-top:1rem ;
+    margin-left: 1rem;
+}
+
+
+.content3 h1{
+    margin-top: 2rem;
+    margin-left: 1rem;
+    font-size: 20px;
+    color: #252641; 
+    font-family: poppins;  
+}
+.content3 h2{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    color: #696984;
+    font-size: 1rem;
+    font-family: poppins;
+    font-weight: 400;
+
+}
+.content3 h3{
+    
+    margin-left: 1rem;
+    color: #696984;
+    font-family: poppins;
+    text-decoration: underline;
+}
+.box{
+    display: block;
+}
+.content4{
+    display: flex;
+}
+
+.img4{
+    width: 11rem;
+    height: 10rem;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 15rem;
+    object-fit: cover;
+}
+
+.text{
+    display: block;
+}
+.content4 h1{
+    font-family: poppins;
+    font-size: 0.9rem;
+    margin-left: 1rem;
+    
+}
+.content4 h2{
+    font-size: 0.9rem;
+    font-family: poppins;
+    margin-left: 1rem;
+
+}
+.content4 button{
+    width: 6rem;
+    height: 2rem;
+    background-color: #49BBBD;
+    border: none;
+    color: white;
+    font-family: poppins;
+    border-radius: 20px;
+    position: relative;
+    right: 8.5rem;
+    bottom: 1rem;
+    
+    
+}
+
+.content7{
+    display: block;
+    width: 100%;
+    height: 30rem;
+    background-color: #252641;
+    margin-top: 20rem;
+
+
+}
+.content7 h2{
+    padding-top: 2.9rem;
+    margin-left: 38rem;
+    font-size: 1.5rem;
+    color: #FFFFFF;
+    font-family: poppins;
+}
+.content7 h3{
+    margin-top: -4rem;
+    margin-left: 52rem;
+    font-family: poppins;
+    color: #FFFFFF;
+}
+.content7 h4{
+    margin-left: 36rem;
+    font-size: 1.5rem;
+    color: #B2B3CF;
+    font-family: poppins;
+}
+.content7 button{
+    width: 18rem;
+    height: 2.5rem;
+    margin-left: 35rem;
+    margin-top:-0.1rem ;
+    border-radius: 20px;
+    background-color:#252641;
+    border: 2px solid #83839A;
+    
+}
+.content7 h5{
+    margin-top: -2rem;
+    margin-left: 36rem;
+    color:#83839A ;
+    font-size: 1rem;
+    font-family: poppins;
+}
+.content8 button{
+    margin-top: -18rem;
+    margin-left: 54rem;
+    width: 7rem;
+    height: 2.5rem;
+    background-color: #49BBBD;
+    border-color:#80819A ;
+    border-radius: 20px;
+    color:#FFFFFF;
+    border: none;
+}
+.content8 h1{
+    margin-left: 35rem;
+    margin-top: -11.5rem;
+    font-size:1rem;
+    font-family: poppins;
+    color: #B2B3CF;   
+}
+.content8 h2{
+    margin-left: 42.1rem;
+    font-family: poppins;
+    margin-top: -2rem;
+    color: #B2B3CF;
+    font-size:1rem ;
+}
+.content8 h3{
+    margin-top: -2.5rem;
+    margin-left: 52rem;
+    font-family: poppins;
+    font-size: 1rem;
+    color: #B2B3CF;
+}
+.content8 h4{
+     margin-top: 3rem;
+    font-size: 1rem;
+    font-family: poppins;
+    color: #B2B3CF;
+    margin-left: 38rem;
+}
+@media(max-width:600px) {
+    body{
+        margin: 0;
+    }
+    .body{ 
+        display: block;  
+        width: 100%;
+        height: auto;
+        background-color:white;
+        padding-top: 1rem; 
+    }
+    .content1{
+        display: block;
+        width: 100%;
+        height:100%;
+        background-color: white;
+    }
+    .content1 h1{
+        margin-left: 1rem;
+        font-size:0.7rem;
+        padding-top: 0.5rem;
+        font-family: Nunito sans;
+        
+    }
+    .content1 h2{
+        font-size: 1.2rem;
+        margin-left: 1rem;
+        color:#2F327D;
+        font-family: poppins;
+    }
+    .content1i h1{
+        margin-left: 1rem;
+        font-size: 0.8rem;
+        color: #696984;
+        font-weight: 400;
+        font-family: poppins;
+    }
+    .content1i h2{
+        font-size: 0.8rem;
+        color:#696984;
+        font-weight: 400;
+        font-family: poppins;
+    
+    }
+    .content1i h3{
+        margin-left: 1rem;
+        font-size: 0.8rem;
+        color:#696984;
+        font-weight: 400;
+        font-family: poppins;
+    }
+    
+    .button{
+        width: 55%;
+        height: 2.5rem;
+        border-radius: 20px;
+        border:2px solid#49BBBD;
+        background-color: white;
+        margin-left: 2rem;
+        font-size:1rem;
+        font-weight: 400;
+        cursor: pointer;
+        font-family: poppins;
+        
+    
+    }
+    .button:hover{
+        background-color: #49BBBD;
+        transition: ease-in-out 0.5s;
+        transform: translateY(-10%);
+    }   
+    
+    .img1{
+        height:17rem;
+        width:90%;
+        margin-top: 2rem;
+        margin-left: 1rem;
+        border-radius: 10px 10px 10px 10px;
+        object-fit: cover;
+        
+        
+    }
+    .content1h4{
+        width: 55%;
+        height: 8rem;
+        background-color: chocolate;
+        margin-top:4rem;
+        margin-left: 2rem;
+        position: absolute;
+        left: 7rem;
+        top: 26rem;
+        border-radius: 10px 0px 0px 10px;
+    }
+    .content1h4i{
+        width: 52%;
+        height: 8rem;
+        background-color: white;
+        position: absolute;
+        left: 10rem;
+        top: 30rem;
+    }
+    .content1h4i h1{
+        font-family: poppins;
+        font-weight: 400;
+        margin-left: 1rem;
+        color:#5F5F7E;
+        line-height: 1rem;
+        margin-top: 0rem;
+    }
+    .content1h4i h2{
+        font-size:0.8rem ;
+        line-height: 0.8rem;
+    }
+    .img2{
+        position: absolute;
+        bottom:1rem;
+        left: 7rem;
+        height: 1rem;
+    }
+    .content1h4i h3{
+       margin-left: 8rem; 
+       line-height: 0rem;
+       position: absolute;
+       color: #80819A;
+       font-size: 0.7rem;
+    }
+    .content2 h1{
+        color: #2F327D;
+        margin-left: 4rem;
+        margin-top:1.5rem;
+        font-size: 1.5rem;
+    }
+    .content2 h2{
+        font-size: 0.6rem;
+        margin-left: 4rem;
+        color: #696984;
+        font-family: poppins;
+    
+    }
+    .solid{
+        display: block;
+        width: 100%;
+        margin-left: 2.5%;
+    }
+    .content3{
+        display: block;
+         width: 90%;
+         
+    }
+    .content3 img{
+        width: 100%;
+        border-radius: 10px 10px 10px 10px;
+        height: 14rem;
+        object-fit:cover;
+    }
+    
+    .content3 button{
+        width: 8rem;
+        height: 2rem;
+        background-color: #49BBBD;
+        border: none;
+        border-radius: 20px;
+        color: #FFFFFF;
+        margin-top:1rem ;
+        margin-left: 1rem;
+    }
+    
+    
+    .content3 h1{
+        margin-top: 1rem;
+        margin-left: 0.5rem;
+        font-size: 0.7rem;
+        color: #252641; 
+        font-family: poppins;  
+    }
+    .content3 h2{
+        margin-top: 1rem;
+        margin-left: 0.5rem;
+        color: #696984;
+        font-size: 0.7rem;
+        font-family: poppins;
+        font-weight: 400;
+    
+    }
+    .content3 h3{
+        margin-left: 0.5rem;
+        color: #696984;
+        font-family: poppins;
+        text-decoration: underline;
+        font-size: 1rem;
+    }
+    .box{
+        display: block;
+        
+    }
+    .content4{
+        display: block;
+        
+    }
+    
+    .img4{
+        width: 90%;
+        height: 13rem;
+        border-radius: 10px 10px 10px 10px;
+        margin-left: 0.5rem;
+        object-fit: cover;
+    }
+    
+    .text{
+        display: block;
+    }
+    .content4 h1{
+        font-family: poppins;
+        font-size: 0.8rem;
+        margin-left: 0.5rem;
+        
+    }
+    .content4 h2{
+        font-size: 0.8rem;
+        font-family: poppins;
+        margin-left: 0.5rem;
+    
+    }
+    .content4 button{
+        width: 8rem;
+        height: 2rem;
+        background-color: #49BBBD;
+        border: none;
+        color: white;
+        font-family: poppins;
+        border-radius: 20px;
+        position: relative;
+        left: 8rem;
+        bottom: 9.5rem;
+       
+       
+    }
+    
+    .content7{
+        display: block;
+        width: 100%;
+        height: 30rem;
+        background-color: #252641;
+        margin-top: 5rem;
+    
+    
+    }
+    .content7 h2{
+         margin-top: 5rem;
+        margin-left: 3rem;
+        font-size: 1rem;
+        color: #FFFFFF;
+        font-family: poppins;
+    }
+    .content7 h3{
+        margin-top: -2rem;
+        margin-left: 9rem;
+        font-family: poppins;
+        color: #FFFFFF;
+        font-size: 1rem ;
+        
+    }
+    .content7 h4{
+        margin-left: 3rem;
+        font-size: 1rem;
+        color: #B2B3CF;
+        font-family: poppins;
+    }
+    
+    .content7 button{
+        width: 9rem;
+        height: 2.5rem;
+        margin-left: 2rem;
+        margin-top:1.5rem ;
+        border-radius: 20px;
+        background-color:#252641;
+        border: 2px solid #83839A;
+        color:#83839A ;
+        
+    }
+    
+    .content8 button{
+        margin-left: 12rem;
+        width: 7rem;
+        height: 2.5rem;
+        background-color: #49BBBD;
+        border-color:#80819A ;
+        border-radius: 20px;
+        color:#FFFFFF;
+        border: none;
+    }
+    .content8 h1{
+        margin-left: 1rem;
+        font-size:0.5rem;
+        font-family: poppins;
+        color: #B2B3CF;   
+    }
+    .content8 h2{
+        margin-left: 8rem;
+        font-family: poppins;
+        margin-top: rem;
+        color: #B2B3CF;
+        font-size:0.5rem ;
+    }
+    .content8 h3{
+        margin-top:1rem;
+        margin-left: 15rem;
+        font-family: poppins;
+        font-size: 0.5rem;
+        color: #B2B3CF;
+    }
+    .content8 h4{
+         margin-top: 7rem;
+        font-size: 0.5rem;
+        font-family: poppins;
+        color: #B2B3CF;
+        margin-left: 7rem;
+    } 
+
+}
+
+
+
+    
+
+
+
+
+
+
+
+
+
